@@ -43,7 +43,7 @@ nav {
 	position: fixed;
 	left: 0;
 	right: 0;
-	background-image: url(../images/gradient.jpg);
+	/*background-image: url(../images/gradient.jpg);*/
 	height: 117px;
 	background-color: darkgray;
 }
