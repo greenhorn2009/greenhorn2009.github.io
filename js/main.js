@@ -1,4 +1,4 @@
-let promise = fetch("https://steamcommunity.com/profiles/76561198022886802/inventory/")
+fetch("https://steamcommunity.com/profiles/76561198022886802/inventory/")
 .then((response) => {
     return response.json();
   })
